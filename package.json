@@ -11,11 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/TheGreatSimo/npm-pckage-ts-random-number-generator.git"
   },
-  "keywords": [
-    "random",
-    "random-number",
-    "javascript"
-  ],
+  "keywords": ["random", "number", "generator", "typescript"],
   "author": "aissaoui mohamed",
   "license": "ISC",
   "bugs": {
