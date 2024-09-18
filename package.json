@@ -1,0 +1,24 @@
+{
+  "name": "ts-random-number-generator",
+  "version": "1.0.0",
+  "description": "A simple random number generator written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGreatSimo/npm-pckage-ts-random-number-generator.git"
+  },
+  "keywords": [
+    "random",
+    "random-number",
+    "javascript"
+  ],
+  "author": "aissaoui mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGreatSimo/npm-pckage-ts-random-number-generator/issues"
+  },
+  "homepage": "https://github.com/TheGreatSimo/npm-pckage-ts-random-number-generator#readme"
+}
